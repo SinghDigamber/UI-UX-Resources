@@ -8,7 +8,7 @@ A curated list of the best UI/UX resources to enhance your design and user exper
 - [Websites](resources/Websites.md)
 - [Tools](resources/Tools.md)
 - [Articles](resources/Articles.md)
-- [UI Resources Websites](resources/Articles.md)
+- [UI Resources Websites](resources/UIResources.md)
 
 Feel free to contribute to this list by opening a pull request!
 
